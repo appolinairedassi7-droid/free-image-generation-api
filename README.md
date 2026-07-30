@@ -1,4 +1,4 @@
-# ✨ Free AI Image Generation API (100,000 Calls/Day) ⚡
+# ✨ Free AI Image Generation API (100,000 Calls/jou) ⚡
 
 <div align="center">
 
